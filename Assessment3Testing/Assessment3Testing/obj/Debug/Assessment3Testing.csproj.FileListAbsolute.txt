@@ -1,0 +1,6 @@
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3Testing\bin\Debug\Assessment3Testing.exe.config
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3Testing\bin\Debug\Assessment3Testing.exe
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3Testing\bin\Debug\Assessment3Testing.pdb
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3Testing\obj\Debug\Assessment3Testing.csprojResolveAssemblyReference.cache
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3Testing\obj\Debug\Assessment3Testing.exe
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3Testing\obj\Debug\Assessment3Testing.pdb

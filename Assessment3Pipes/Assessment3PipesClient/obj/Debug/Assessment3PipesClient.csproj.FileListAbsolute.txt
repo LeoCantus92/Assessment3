@@ -1,0 +1,6 @@
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Pipes\Assessment3PipesClient\bin\Debug\Assessment3PipesClient.exe.config
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Pipes\Assessment3PipesClient\bin\Debug\Assessment3PipesClient.exe
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Pipes\Assessment3PipesClient\bin\Debug\Assessment3PipesClient.pdb
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Pipes\Assessment3PipesClient\obj\Debug\Assessment3PipesClient.csprojResolveAssemblyReference.cache
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Pipes\Assessment3PipesClient\obj\Debug\Assessment3PipesClient.exe
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Pipes\Assessment3PipesClient\obj\Debug\Assessment3PipesClient.pdb

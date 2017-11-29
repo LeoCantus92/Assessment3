@@ -1,0 +1,8 @@
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3KeyPresses\Assessment3KeyPresses\bin\Debug\Assessment3KeyPresses.exe.config
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3KeyPresses\Assessment3KeyPresses\bin\Debug\Assessment3KeyPresses.exe
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3KeyPresses\Assessment3KeyPresses\bin\Debug\Assessment3KeyPresses.pdb
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3KeyPresses\Assessment3KeyPresses\obj\Debug\Assessment3KeyPresses.Form1.resources
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3KeyPresses\Assessment3KeyPresses\obj\Debug\Assessment3KeyPresses.Properties.Resources.resources
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3KeyPresses\Assessment3KeyPresses\obj\Debug\Assessment3KeyPresses.csproj.GenerateResource.Cache
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3KeyPresses\Assessment3KeyPresses\obj\Debug\Assessment3KeyPresses.exe
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3KeyPresses\Assessment3KeyPresses\obj\Debug\Assessment3KeyPresses.pdb

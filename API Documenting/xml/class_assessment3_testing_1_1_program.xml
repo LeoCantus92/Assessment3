@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="class_assessment3_testing_1_1_program" kind="class" language="C#" prot="public">
+    <compoundname>Assessment3Testing::Program</compoundname>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_assessment3_testing_1_1_program_1a42632b30515ac5e39b9b72ca9436d090" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Assessment3Testing.Program.Main</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>Main</name>
+        <param>
+          <type>string []</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assessment3Testing/Program.cs" line="11" column="1" bodyfile="Assessment3Testing/Program.cs" bodystart="11" bodyend="13"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_assessment3_testing_1_1_program_1a5ecc6db04f985ff67911a5aa46f7a858" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Assessment3Testing.Program.Add2Int</definition>
+        <argsstring>(int num1, int num2)</argsstring>
+        <name>Add2Int</name>
+        <param>
+          <type>int</type>
+          <declname>num1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>num2</declname>
+        </param>
+        <briefdescription>
+<para>Adds num1 and num2 together </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>num1</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>num2</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assessment3Testing/Program.cs" line="20" column="1" bodyfile="Assessment3Testing/Program.cs" bodystart="20" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_assessment3_testing_1_1_program_1a4d2c8af60878a37c6ec62ccd96b77a25" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Assessment3Testing.Program.SubtractInt</definition>
+        <argsstring>(int num1, int num2)</argsstring>
+        <name>SubtractInt</name>
+        <param>
+          <type>int</type>
+          <declname>num1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>num2</declname>
+        </param>
+        <briefdescription>
+<para>Subtracts num2 from num1 </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>num1</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>num2</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assessment3Testing/Program.cs" line="30" column="1" bodyfile="Assessment3Testing/Program.cs" bodystart="30" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_assessment3_testing_1_1_program_1a65ffe5682731159238e4ef2580b5d5cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string Assessment3Testing.Program.Concat2Strings</definition>
+        <argsstring>(string word1, string word2)</argsstring>
+        <name>Concat2Strings</name>
+        <param>
+          <type>string</type>
+          <declname>word1</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>word2</declname>
+        </param>
+        <briefdescription>
+<para>Concatinates the two given strings into a single string with word1 coming first </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>word1</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>word2</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assessment3Testing/Program.cs" line="40" column="1" bodyfile="Assessment3Testing/Program.cs" bodystart="40" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="class_assessment3_testing_1_1_program_1aa9e46f570963d0f3fe561a58d2671921" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Assessment3Testing.Program.Login</definition>
+        <argsstring>(string Username, string Password)</argsstring>
+        <name>Login</name>
+        <param>
+          <type>string</type>
+          <declname>Username</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>Password</declname>
+        </param>
+        <briefdescription>
+<para>Checks if the given username and password are equal to the preset username and password </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>Username</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>Password</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assessment3Testing/Program.cs" line="50" column="1" bodyfile="Assessment3Testing/Program.cs" bodystart="50" bodyend="58"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assessment3Testing/Program.cs" line="10" column="1" bodyfile="Assessment3Testing/Program.cs" bodystart="9" bodyend="59"/>
+    <listofallmembers>
+      <member refid="class_assessment3_testing_1_1_program_1a5ecc6db04f985ff67911a5aa46f7a858" prot="public" virt="non-virtual"><scope>Assessment3Testing::Program</scope><name>Add2Int</name></member>
+      <member refid="class_assessment3_testing_1_1_program_1a65ffe5682731159238e4ef2580b5d5cf" prot="public" virt="non-virtual"><scope>Assessment3Testing::Program</scope><name>Concat2Strings</name></member>
+      <member refid="class_assessment3_testing_1_1_program_1aa9e46f570963d0f3fe561a58d2671921" prot="public" virt="non-virtual"><scope>Assessment3Testing::Program</scope><name>Login</name></member>
+      <member refid="class_assessment3_testing_1_1_program_1a42632b30515ac5e39b9b72ca9436d090" prot="private" virt="non-virtual"><scope>Assessment3Testing::Program</scope><name>Main</name></member>
+      <member refid="class_assessment3_testing_1_1_program_1a4d2c8af60878a37c6ec62ccd96b77a25" prot="public" virt="non-virtual"><scope>Assessment3Testing::Program</scope><name>SubtractInt</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,11 @@
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\ColoursOfTheRainbow.exe.config
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\ColoursOfTheRainbow.exe
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\ColoursOfTheRainbow.pdb
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\Newtonsoft.Json.dll
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\Newtonsoft.Json.xml
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.csprojResolveAssemblyReference.cache
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.MainForm.resources
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.Properties.Resources.resources
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.csproj.GenerateResource.Cache
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.exe
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.pdb

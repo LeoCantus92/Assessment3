@@ -1,0 +1,15 @@
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Assessment3TestingTests.dll
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Assessment3TestingTests.pdb
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Assessment3Testing.exe
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Assessment3Testing.pdb
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Assessment3Testing.exe.config
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\obj\Debug\Assessment3TestingTests.csprojResolveAssemblyReference.cache
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\obj\Debug\Assessment3TestingTests.dll
+C:\Users\display\Documents\TAFE\Diploma\Ivonne\Assessment 3\Assessment3Testing\Assessment3TestingTests\obj\Debug\Assessment3TestingTests.pdb
